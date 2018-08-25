@@ -1,0 +1,14 @@
+div{
+}
+
+
+.img{   margin: 0; padding: 0; font-size:0;
+
+        height:26000px; 
+		background-image: url(../img/WEB2.jpg);
+		background-position: center;
+		background-repeat:no-repeat;
+		background-size: 100% 100%;
+		text-align:center;
+		position:relative;
+}
